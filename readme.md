@@ -32,7 +32,3 @@ For a complete list of my projects, please visit my [GitHub repositories](https:
 
 Feel free to reach out to me if you have any questions, suggestions, or if you'd like to discuss potential collaborations. I'm always excited to connect with fellow developers and technology enthusiasts!
 
-## 📊 GitHub Stats
-
-```plaintext
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=issues&theme=radical)
