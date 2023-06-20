@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web development dedicated to crea
 ## 🔧 Skills
 
 - **Languages:** JavaScript, Python, HTML5, CSS3
-- **Frameworks and Libraries:** React, Node.js, Express.js, Bootstrap
+- **Frameworks and Libraries:** React, Node.js, Express.js, Bootstrap, Tailwind
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools and Technologies:** Git, VS Code
   
