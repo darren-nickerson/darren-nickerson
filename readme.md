@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a passionate web development dedicated to crea
 - **Frameworks and Libraries:** React, Node.js, Express.js, Bootstrap
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools and Technologies:** Git, VS Code
+  
 I'm always seeking opportunities to expand my knowledge and stay up-to-date with the latest trends in the tech industry. I thrive on challenges and enjoy finding creative solutions to complex problems.
 
 ## 💼 Projects
