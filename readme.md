@@ -6,11 +6,10 @@ Welcome to my GitHub profile! I'm a passionate web development dedicated to crea
 
 ## 🔧 Skills
 
-- **Languages:** [List your programming languages]
-- **Frameworks and Libraries:** [List your frameworks and libraries]
-- **Databases:** [List your database technologies]
-- **Tools and Technologies:** [List your tools and technologies]
-
+- **Languages:** JavaScript, Python, HTML5, CSS3
+- **Frameworks and Libraries:** React, Node.js, Express.js, Bootstrap
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools and Technologies:** Git, VS Code
 I'm always seeking opportunities to expand my knowledge and stay up-to-date with the latest trends in the tech industry. I thrive on challenges and enjoy finding creative solutions to complex problems.
 
 ## 💼 Projects
