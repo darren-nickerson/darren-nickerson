@@ -1,4 +1,4 @@
-![alt text](https://media.licdn.com/dms/image/D4E16AQFK9Mkv5knIDA/profile-displaybackgroundimage-shrink_350_1400/0/1687364560738?e=1692835200&v=beta&t=-_vJMpqCdX5K4onIt1blHU8zRddoZ1ODNwCXYpDKz1U)
+![alt text]([https://media.licdn.com/dms/image/D4E16AQFK9Mkv5knIDA/profile-displaybackgroundimage-shrink_350_1400/0/1687364560738?e=1692835200&v=beta&t=-_vJMpqCdX5K4onIt1blHU8zRddoZ1ODNwCXYpDKz1U](https://www.linkedin.com/in/darren-nickerson-dev/))
 
 
 
