@@ -1,4 +1,3 @@
-![alt text](https://media.licdn.com/dms/image/D4E16AQG4E3R8FrrYgA/profile-displaybackgroundimage-shrink_350_1400/0/1687445148784?e=1692835200&v=beta&t=HQ5b1suXDYo-qKnEPYsU0hGvOJssM_n0rkQx7qMoj1M)
 
 
 
