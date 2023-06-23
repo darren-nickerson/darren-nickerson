@@ -22,8 +22,7 @@ I'm always seeking opportunities to expand my knowledge and stay up-to-date with
 Here are some of the notable projects I've worked on:
 
 - [Time Planner](https://github.com/darren-nickerson/Time-planner): The app offers an efficient way to meticulously plan and organize your day, allowing you to optimize your productivity with precise 15-minute intervals. To ensure data privacy and accessibility, all information is securely stored locally on your computer using local storage.
-- [Project 2](link-to-project-2): Brief description or key features.
-- [Project 3](link-to-project-3): Brief description or key features.
+- [Orkuta Fitness App](https://www.orkuta.com/): The fitness app provides a suite of tools to track and improve your overall fitness levels. With this app, you can effortlessly check essential metrics such as BMI (Body Mass Index), fat levels, strength score, and press-up level. Stay motivated and monitor your progress with ease.
 
 For a complete list of my projects, please visit my [GitHub repositories](https://github.com/darren-nickerson).
 
