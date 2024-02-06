@@ -1,6 +1,3 @@
-
-
-
 # Hi there, I'm Darren Nickerson! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darren-nickerson-dev)
@@ -10,11 +7,10 @@ Welcome to my GitHub profile! I'm a passionate web development dedicated to crea
 ## 🔧 Skills
 
 - **Languages:** JavaScript, Python, HTML5, CSS3
-- **Frameworks and Libraries:** React, Bootstrap, Tailwind, django
+- **Frameworks and Libraries:** React, Bootstrap, Tailwind, Django
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools and Technologies:** Git, VS Code
 
-  
 ## 📫 Get in Touch
 
 - LinkedIn: [darren-nickerson-dev](https://www.linkedin.com/in/darren-nickerson-dev)
